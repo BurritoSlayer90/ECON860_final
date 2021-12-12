@@ -2,6 +2,7 @@
 My final for Clemson's ECON 8600, Data Analysis for Economics
 
 **Answers**
+
 1c. I found 4 factors was optimal.
 
 1d. I utilized KMeans and KMedoids clustering

@@ -70,10 +70,6 @@ print(result)
 print(result.shape)
 #it shows I have 1613 observations and 4 factors, yay
 
-#creating a basic scatterplot for my data
-pyplot.scatter(result[:,0], result[:,1])
-pyplot.savefig("scatterplot.png")
-
 #1d: I begin solving 1d with the following code
 #I define run_kmedoids(n) to make scatterplots with n clusters
 def run_kmedoids(n):
